@@ -15,7 +15,7 @@ $this->body = $body;
 
 if ($SmtpPort == "")
 {
-$this->PortSMTP = 465;
+$this->PortSMTP = [Insert Smtp port];
 }
 else
 {
@@ -51,4 +51,5 @@ fclose($SMTPIN);
 return $talk;
 }
 }
+
 ?>
