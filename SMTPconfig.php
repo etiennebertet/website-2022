@@ -1,7 +1,8 @@
 <?php
 //Server Address
-$SmtpServer="ssl0.ovh.net";
-$SmtpPort="465";
-$SmtpUser="etiennebertet@gmail.com";
-$SmtpPass="Sup3rm0tdep4sse3000";
+$SmtpServer="OVH";
+$SmtpPort="Port";
+$SmtpUser="email@address.com";
+$SmtpPass="Password";
+
 ?>
